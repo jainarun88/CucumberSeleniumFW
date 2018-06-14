@@ -1,0 +1,8 @@
+stepDefinitions\CheckoutPageSteps.class
+stepDefinitions\Hooks.class
+stepDefinitions\HomePageSteps.class
+stepDefinitions\CartPageSteps.class
+runners\TestRunner.class
+stepDefinitions\ConfirmationPageSteps.class
+stepDefinitions\Steps.class
+stepDefinitions\ProductPageSteps.class
